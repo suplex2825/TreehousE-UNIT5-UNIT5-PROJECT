@@ -1,0 +1,35 @@
+body {
+	padding: 0;
+	margin: 0;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+.center {
+	text-align: center;
+}
+
+.search {
+	padding: 20px;
+	border-radius: 5px;
+	width: 400px;
+	border-style: solid;
+	border-color: #e6e6e6;
+	margin-top: 50px;
+}
+
+#lightgallery {
+	margin-top: 40px;
+	margin-left: 5%;
+}
+
+.left {
+	float: left;
+	width: calc(100% / 4);
+}
+
+.top {
+	margin-top: 45px;
+}
